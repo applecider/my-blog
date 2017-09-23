@@ -7,7 +7,7 @@
   },
   "scripts": {
     "generate": "hexo generate",
-    "start": "pm2 start server.js -i 4 --name blog",
+    "start": "pm2 start server.js --name blog",
     "stop": "pm2 stop blog",
     "kill": "pm2 kill",
     "reload": "pm2 reload blog",
