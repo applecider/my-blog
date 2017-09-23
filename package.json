@@ -11,8 +11,7 @@
     "stop": "pm2 stop blog",
     "kill": "pm2 kill",
     "reload": "pm2 reload blog",
-    "redeploy": "npm i && npm run generate && npm run reload",
-    "serve": "npm i && npm run generate && npm start",
+    "redeploy": "git pull && npm i --no-package-lock && npm run generate && npm run reload",
     "status": "pm2 list"
   },
   "dependencies": {
