@@ -61,6 +61,7 @@ input:focus, textarea:focus {
 
 .footer a {
   color: #333;
+  text-decoration: none;
 }
 
 h1, h2, h3 {
