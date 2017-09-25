@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: New York Galaxy
+title: Kate Loves New York
 subtitle:
 description:
 author: Kate Wei
@@ -11,8 +11,8 @@ language: en
 timezone: America/New_York
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and ` as '/child/'
+url: http://katelovenewyork.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -78,9 +78,9 @@ theme: edinburgh
 menu:
   About: /about
   Contact: /contact
-  Instagram: https://www.instagram.com
-  LinkedIn: https://www.linkedin.com
-  Facebook: https://www.facebook.com
+  Instagram: https://www.instagram.com/applecider_kate/
+  LinkedIn: https://www.linkedin.com/in/jw2506/
+  Facebook: https://www.facebook.com/kate.wei.37
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
