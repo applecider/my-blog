@@ -59,6 +59,10 @@ input:focus, textarea:focus {
   width: 100%;
 }
 
+.footer a {
+  color: #333;
+}
+
 h1, h2, h3 {
   font-family: 'Crimson Text', sans-serif;
   letter-spacing: 1px;

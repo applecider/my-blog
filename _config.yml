@@ -78,9 +78,6 @@ theme: edinburgh
 menu:
   About: /about
   Contact: /contact
-  Instagram: https://www.instagram.com/applecider_kate/
-  LinkedIn: https://www.linkedin.com/in/jw2506/
-  Facebook: https://www.facebook.com/kate.wei.37
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

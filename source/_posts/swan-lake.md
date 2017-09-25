@@ -42,14 +42,18 @@ That’s where the most famous scene started: dance of four little swans.
 
 They were celebrating their princess Odelle found her true love and a great tomorrow was waiting for all of them. They were dancing in a roll, they were moving like one. They were cheerful, couldn’t be more happier for their princess. Stunning.
 And then came to the grand celebration of Prince’s 21st birthday. Among all the beautiful princess, the prince could only thought of Odette, his true love. And then the black swan showed up. She look the same as Odelle although she’s actually Odile, sent by the devil to sabotage the lovers.
+
 “Name me your queen.” She flirted and whispered.
+
 “Yes, of course!” The Prince eagerly wanted to prove his love to her.
+
 “Not enough, say it loudly, hold my hands and present me to everyone! Make me the promise forever!” She’s never satisfied.
+
 “Yes, my love! I will do it for sure! All my heart belong to you!” He couldn’t see, he wouldn’t see, he made the promise by breaking one.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lW2oxga1dNU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-And then She won.
+And then she won.
 <img src="https://i.pinimg.com/originals/b4/02/dc/b402dc3958cf00809ec9b5f88a27864d.jpg" />
 
 The show continued by the devil Robat and Black Swan Odile revealed everything. The prince can’t regret more and chased Princess Odette to the swan lake. They kiss, they hugs and mostly, they regret. The final Swan lake dance was another masterpiece. How could she accept the heartbroken truth that her love couldn’t keep her promise and she would be a swan forever? She dance to the last, used all her energy.
